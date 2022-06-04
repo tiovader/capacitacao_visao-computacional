@@ -1,0 +1,2 @@
+# Capacitação em Visão Computacional
+este repositório contém os exercícios da `Capacitação em Visão Computacional`, ministrada pela [Data Inception AI](https://www.linkedin.com/company/data-inception-ai/).
