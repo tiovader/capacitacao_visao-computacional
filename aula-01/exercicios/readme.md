@@ -26,8 +26,9 @@ Hoje os maiores desafios são a inexistência de um protocolo padrão para aquis
 
 ## 5. (DESAFIO) Implemente a função de quantização em Python usando o Google Colab.
 A função está definida no arquivo `quantization.py` e é definida como:
+
 ```python
- def get_quantization(image: np.ndarray, b: int) - np.ndarray:
+def get_quantization(image: np.ndarray, b: int) -> np.ndarray:
      """Quantiza uma imagem digital para um número
      de bits especificado de acordo como parâmetro
      b.
@@ -53,6 +54,5 @@ A função está definida no arquivo `quantization.py` e é definida como:
      describe_image(result_image, b)
  
      return result_image.astype("uint8")
- 
  ```
 Para visualização e testagem da função usa-se uma figura `tucano.jpg` contida em `images`, onde a imagem quantizada é descrita pela função `describe_image`. ![grid](./images/grid.jpg)
