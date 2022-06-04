@@ -1,6 +1,6 @@
 # Lista de Exercícios
 ## 1. Explique o processo ocorrido na figura abaixo.
-<p> <img src="./questao_1.png" align="middle"> </p>
+<p> <img src="./images/questao_1.png" align="middle"> </p>
 
 > ### Se trata da discretização da imagem, na primeira etapa a imagem é vetorizada em um plano de 2D de NxM. Em seguida é aplicado uma escala de cores e o valor de cada ponto é proporcional ao brilho da imagem naquele ponto.
 
